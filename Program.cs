@@ -35,6 +35,10 @@ namespace DZ_2020_04_04
             public Employee(){}
             public decimal Salary(string position, int experience, decimal salary)
             {   
+                decimal tax = salary * 13 / 100;
+                decimal pension_fund = ((salary - tax) * 1) / 100;
+                
+                return tax + pension_fund;
             }
             public void showEmployee()
             {
