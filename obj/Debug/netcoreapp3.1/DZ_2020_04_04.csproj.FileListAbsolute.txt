@@ -1,0 +1,13 @@
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\bin\Debug\netcoreapp3.1\DZ_2020_04_04.exe
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\bin\Debug\netcoreapp3.1\DZ_2020_04_04.deps.json
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\bin\Debug\netcoreapp3.1\DZ_2020_04_04.runtimeconfig.json
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\bin\Debug\netcoreapp3.1\DZ_2020_04_04.runtimeconfig.dev.json
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\bin\Debug\netcoreapp3.1\DZ_2020_04_04.dll
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\bin\Debug\netcoreapp3.1\DZ_2020_04_04.pdb
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\obj\Debug\netcoreapp3.1\DZ_2020_04_04.csprojAssemblyReference.cache
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\obj\Debug\netcoreapp3.1\DZ_2020_04_04.csproj.CoreCompileInputs.cache
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\obj\Debug\netcoreapp3.1\DZ_2020_04_04.AssemblyInfoInputs.cache
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\obj\Debug\netcoreapp3.1\DZ_2020_04_04.AssemblyInfo.cs
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\obj\Debug\netcoreapp3.1\DZ_2020_04_04.dll
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\obj\Debug\netcoreapp3.1\DZ_2020_04_04.pdb
+C:\Users\Tolmasbek\Desktop\code\DZ_2020_04_04_TheTask3\obj\Debug\netcoreapp3.1\DZ_2020_04_04.genruntimeconfig.cache
