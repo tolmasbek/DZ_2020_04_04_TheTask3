@@ -19,7 +19,16 @@ namespace DZ_2020_04_04
              *              сотруднике (фамилия, имя, должность), оклад (заработная плата) и
              *              налоговый сбор (13 % налог + 1% пенсионный фонд) от заработной платы.
              */
-
+             
+            Employee emp = new Employee("Имя", "Фамилия");
+            
+            string pos = "должность";
+            int exp = 3;
+            decimal sal = 1000;
+            decimal salary = emp. Salary(pos, exp, sal);
+                
+                emp. showEmployee();
+                System.Console. WriteLine($"Position: {pos}\nExperience: {exp} \nTax&PensFund: {salary}");
 
             Console.ReadKey();
         }
@@ -37,7 +46,7 @@ namespace DZ_2020_04_04
             {   
                 decimal tax = salary * 13 / 100;
                 decimal pension_fund = ((salary - tax) * 1) / 100;
-                
+
                 return tax + pension_fund;
             }
             public void showEmployee()
